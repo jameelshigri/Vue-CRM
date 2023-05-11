@@ -1,0 +1,62 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Jamil",
+      "email": "jam@example.com",
+      "password": "12345678",
+      "isAdmin": true
+    },
+    {
+      "name": "Ali",
+      "email": "Ali@example.com",
+      "password": "12345678",
+      "isAdmin": false,
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "isAdmin": "",
+      "id": 11
+    }
+  ],
+  "task": [
+    {
+      "task": "Go to Mosque and come back",
+      "user_id": 9,
+      "id": 4
+    },
+    {
+      "task": "Go to Madrasa",
+      "user_id": 9,
+      "id": 5
+    },
+    {
+      "task": "Go to Hospital",
+      "user_id": 10,
+      "id": 6
+    },
+    {
+      "task": "Make some foodfff",
+      "user_id": 10,
+      "id": 8
+    },
+    {
+      "task": "Go to PAF",
+      "user_id": 10,
+      "id": 9
+    },
+    {
+      "task": "",
+      "user_id": 10,
+      "id": 10
+    },
+    {
+      "task": "",
+      "user_id": 10,
+      "id": 11
+    }
+  ]
+}
